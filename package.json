@@ -1,0 +1,32 @@
+{
+	"name": "Matrix",
+	"publisher": "ErmiyasZeleke",
+	"displayName": "Matrix Theme",
+	"description": "Feel the matrix while you code😁✌",
+	"version": "1.0.0",
+	"icon": "image/icon.png",
+	"engines": {
+		"vscode": "^1.67.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Matrix Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Quiet Dark-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "48f7a259-7dbb-4640-81c2-2fcd0d38e412",
+		"publisherId": "8bf782bf-bf52-4b9a-a3b5-6936483f896b",
+		"publisherDisplayName": "Ermiyas Zeleke",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1698879314846
+	}
+}
